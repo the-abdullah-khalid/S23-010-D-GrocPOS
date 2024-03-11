@@ -1,0 +1,4 @@
+IN THIS LOG FILE WE UPDATE WHAT WE HAVE DONE DAILY FOR THE FYP-2 LAST ITERATION
+
+26/11/2023 : Started Creating the MVVM Folder Structure with GETX State Management
+26/11/2023 : Completed the basic folder structure of the MVVM
